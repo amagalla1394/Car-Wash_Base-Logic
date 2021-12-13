@@ -3,7 +3,7 @@ Module Main()
 Declare Integer menuSelection
 Declare Real washPrice
 Set washPrice = 0.00
-.
+
 Do
 //Display menu
    Call displayMenu(menuSelection)
